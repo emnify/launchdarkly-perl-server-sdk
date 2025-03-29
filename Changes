@@ -1,6 +1,10 @@
 Revision history for Perl extension launchdarkly-perl-server-sdk
 
-{{$NEXT}}
+0.03  Thu Mar 21 20:03:30 2025
+    - Updated to LaunchDarkly C++ API version 3.8.x
+
+0.02  Thu May 12 04:49:30 2022
+    - Minimum Perl version is lowered to v5.18.2
 
 0.01  Fri Apr 22 16:51:17 2022
 	- original version; created by h2xs 1.23 with options

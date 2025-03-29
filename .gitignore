@@ -9,6 +9,8 @@ blib/
 /const-c.inc
 /const-xs.inc
 pm_to_blib
+stl_typemap
+obj_typemap
 
 # temp files
 *.swp
